@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+      - validation/dts-workers-1125
 
   pull_request:
     branches:
